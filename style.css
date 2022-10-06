@@ -1,0 +1,15 @@
+
+#pane{
+    -fx-background-image: url("back.jpg");
+    -fx-background-repeat: fill;
+    -fx-background-size: 600 300;
+
+}
+#check{
+    -fx-background-color: lightgreen;
+    -fx-font-size: 18px;
+}
+#giveUp{
+    -fx-background-color: lightcoral;
+    -fx-font-size: 18px;
+}
